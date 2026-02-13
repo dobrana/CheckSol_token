@@ -1,4 +1,4 @@
-# SolanaForensics
+# CheckSol token
 
 Solana token risk analysis: creator check, wallet history and risk score before investing.
 
@@ -6,7 +6,7 @@ Solana token risk analysis: creator check, wallet history and risk score before 
 
 **Problem:** Thousands of tokens are created on Solana every day; a large share are fraudulent (scams, rug pulls, pump-and-dump). Standard scanners and explorers show only current state, not creator history and behavior patterns. Retail investors lack on-chain forensics tools.
 
-**Solution:** SolanaForensics provides analysis in three areas:
+**Solution:** CheckSol provides analysis in three areas:
 
 1. **Creator history** — the wallet that deployed the token: how many tokens it has launched, survival of past tokens, “create → pump → abandon” patterns, account age and funding sources.
 2. **Connection graph** — links between wallets, sybil clusters, first buyers, circular transfers, graph visualization (MVP: input + Risk Score block).
